@@ -1,0 +1,13 @@
+.itemContainer {
+  margin: 20px auto;
+  width: 300px;
+}
+.item {
+  width: 100px;
+  font-size: 16px;
+  padding: 20px;
+
+  border: none;
+  border-bottom: 1px solid gray;
+  outline: none;
+}
